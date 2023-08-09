@@ -1,0 +1,14 @@
+table , td{
+  border: 3px solid black;
+  border-collapse: collapse ;
+  
+}
+thead{
+    font-weight: bolder ;
+    background-color: grey;
+    color: beige;
+}
+tbody > tr:hover{
+    background-color: brown;
+    color: aliceblue;
+}
